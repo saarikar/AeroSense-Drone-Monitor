@@ -94,7 +94,17 @@ streamlit run streamlit_app/app.py
 
 ## 📷 Demo
 
-*Add screenshots of your dashboard here*
+### Streamlit Dashboard
+
+| Dashboard View 1 | Dashboard View 2 |
+|---|---|
+| ![Dashboard Screenshot 1](Screenshot%202026-04-09%20200937.png) | ![Dashboard Screenshot 2](Screenshot%202026-04-09%20200948.png) |
+
+### Actual Setup
+
+| Setup Photo 1 | Setup Photo 2 |
+|---|---|
+| ![Demo Setup 1](demo_img1.jpeg) | ![Demo Setup 2](demo_img2.jpeg) |
 
 ---
 
