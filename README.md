@@ -98,7 +98,7 @@ streamlit run streamlit_app/app.py
 
 | Dashboard View 1 | Dashboard View 2 |
 |---|---|
-| ![Dashboard Screenshot 1](Screenshot%202026-04-09%20200937.png) | ![Dashboard Screenshot 2](Screenshot%202026-04-09%20200948.png) |
+| ![Dashboard Screenshot 1](dashboard-view-screenshot1.png) | ![Dashboard Screenshot 2](dashboard-view-screenshot2.png) |
 
 ### Actual Setup
 
